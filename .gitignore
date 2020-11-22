@@ -3,6 +3,6 @@
 *.drc
 *.net
 *.ERR
-/Buch/*.*
-/Tmp/*.*
-
+\Buch\*.*
+\Tmp\*.*
+\Show\*.*
